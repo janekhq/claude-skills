@@ -1,0 +1,7 @@
+- [ ] Wrong steps/order → edit skill.md instructions
+- [ ] Missing tone/style → add reference files
+- [ ] Same mistake repeating → add a rule
+- [ ] Struggles with a tool → create a reference doc
+- [ ] Works but could be better → brute force it (run and iterate)
+- [ ] Skill doesn't trigger → check YAML front matter
+- [ ] Triggers too often → disable model invocation
